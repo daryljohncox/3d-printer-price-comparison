@@ -1,5 +1,85 @@
 {
-  "collectedAt": "2026-10-12T21:45:50.566Z",
+  "collectedAt": "2026-10-11T20:51:08.680Z",
   "sample": false,
-  "shops": []
+  "shops": [
+    {
+      "id": "kiwifil",
+      "ok": true,
+      "platform": "shopify",
+      "listings": 177
+    },
+    {
+      "id": "formtech",
+      "ok": true,
+      "platform": "shopify",
+      "listings": 792
+    },
+    {
+      "id": "bits4bots",
+      "ok": true,
+      "platform": "shopify",
+      "listings": 1269
+    },
+    {
+      "id": "makershop",
+      "ok": true,
+      "platform": "woocommerce",
+      "listings": 166
+    },
+    {
+      "id": "marvle3d",
+      "ok": false,
+      "error": "shopify: HTTP 403 from https://marvle3d.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 403 from https://marvle3d.co.nz/wp-json/wc/store/v1/products?per_page=100&page=1"
+    },
+    {
+      "id": "3dshop",
+      "ok": false,
+      "error": "shopify: HTTP 404 from https://3dshop.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 404 from https://3dshop.co.nz/wp-json/wc/store/v1/products?per_page=100&page=1"
+    },
+    {
+      "id": "mindkits",
+      "ok": false,
+      "error": "shopify: HTTP 404 from https://mindkits.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 404 from https://mindkits.co.nz/wp-json/wc/store/v1/products?per_page=100&page=1"
+    },
+    {
+      "id": "3dmax",
+      "ok": false,
+      "error": "shopify: HTTP 404 from https://3dmax.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 404 from https://3dmax.co.nz/wp-json/wc/store/v1/products?per_page=100&page=1"
+    },
+    {
+      "id": "wondershop",
+      "ok": false,
+      "error": "shopify: HTTP 403 from https://wondershop.nz/products.json?limit=250&page=1; woocommerce: HTTP 403 from https://wondershop.nz/wp-json/wc/store/v1/products?per_page=100&page=1"
+    },
+    {
+      "id": "3dea",
+      "ok": false,
+      "error": "shopify: HTTP 404 from https://3dea.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 404 from https://3dea.co.nz/wp-json/wc/store/v1/products?per_page=100&page=1"
+    },
+    {
+      "id": "bambulab",
+      "ok": false,
+      "error": "Needs a custom reader (not built yet)"
+    },
+    {
+      "id": "creality",
+      "ok": false,
+      "error": "Needs a custom reader (not built yet)"
+    },
+    {
+      "id": "pbtech",
+      "ok": false,
+      "error": "Needs a custom reader (not built yet)"
+    },
+    {
+      "id": "jaycar",
+      "ok": false,
+      "error": "Needs a custom reader (not built yet)"
+    },
+    {
+      "id": "jbhifi",
+      "ok": false,
+      "error": "Needs a custom reader (not built yet)"
+    }
+  ]
 }
