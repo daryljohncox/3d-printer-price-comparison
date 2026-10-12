@@ -14,7 +14,8 @@ const MAX_PRODUCT_PAGES = 2500;
 const MAX_SHOP_MINUTES = 90;
 
 // Test runs can limit the work: COLLECT_ONLY=3dshop,3dea COLLECT_LIMIT=20 COLLECT_DRY_RUN=1
-const ONLY = process.env.COLLECT_ONLY?.split(",").filter(Boolean);
+const onlyIds = (process.env.COLLECT_ONLY ?? "").split(",").filter(Boolean);
+const ONLY = onlyIds.length ? onlyIds : null;
 const LIMIT = Number(process.env.COLLECT_LIMIT) || Infinity;
 const DRY_RUN = Boolean(process.env.COLLECT_DRY_RUN);
 const DEBUG = Boolean(process.env.COLLECT_DEBUG);
@@ -217,6 +218,9 @@ async function main() {
     for (const l of listings.slice(0, 40)) console.log(`  ${l.shopId} | ${l.category} | ${l.price} | ${l.inStock ? "in" : "out"} | ${l.title}`);
     return;
   }
+
+  // Never replace good data with an empty run.
+  if (!listings.length) throw new Error("No listings collected from any shop; keeping the previous data.");
 
   const collectedAt = new Date().toISOString();
   const today = collectedAt.slice(0, 10);
