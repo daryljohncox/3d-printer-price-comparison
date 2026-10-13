@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-12T22:38:17.484Z",
+  "collectedAt": "2026-10-13T00:22:44.331Z",
   "sample": false,
   "shops": [
     {
@@ -57,7 +57,7 @@
     {
       "id": "3dea",
       "ok": false,
-      "error": "woocommerce: HTTP 403 from https://www.3dea.co.nz/shop/wp-json/wc/store/v1/products?per_page=100&page=1"
+      "error": "woocommerce: fetch failed"
     },
     {
       "id": "pbtech",
@@ -67,13 +67,12 @@
     {
       "id": "jaycar",
       "ok": false,
-      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/3d-printers-supplies/c/10"
+      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/sitemap/products/24.xml"
     },
     {
       "id": "jbhifi",
-      "ok": true,
-      "platform": "sitemap",
-      "listings": 22
+      "ok": false,
+      "error": "sitemap: HTTP 503 from https://www.jbhifi.co.nz/sitemap_products_9.xml?from=7328292634698&to=7332054466761"
     },
     {
       "id": "bambulab",
