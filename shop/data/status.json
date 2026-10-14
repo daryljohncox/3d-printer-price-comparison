@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-13T22:33:35.069Z",
+  "collectedAt": "2026-10-14T21:19:44.739Z",
   "sample": false,
   "shops": [
     {
@@ -12,7 +12,7 @@
       "id": "formtech",
       "ok": true,
       "platform": "shopify",
-      "listings": 792
+      "listings": 796
     },
     {
       "id": "bits4bots",
@@ -67,13 +67,13 @@
     {
       "id": "jaycar",
       "ok": false,
-      "error": "sitemap: The operation was aborted due to timeout"
+      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/sitemap/products/24.xml"
     },
     {
       "id": "jbhifi",
       "ok": true,
       "platform": "sitemap",
-      "listings": 22
+      "listings": 21
     },
     {
       "id": "bambulab",
