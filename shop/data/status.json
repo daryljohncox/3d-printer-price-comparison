@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-14T21:19:44.739Z",
+  "collectedAt": "2026-10-15T20:59:18.500Z",
   "sample": false,
   "shops": [
     {
@@ -35,13 +35,13 @@
       "id": "3dshop",
       "ok": true,
       "platform": "sitemap",
-      "listings": 80
+      "listings": 79
     },
     {
       "id": "mindkits",
       "ok": true,
       "platform": "sitemap",
-      "listings": 1037
+      "listings": 1036
     },
     {
       "id": "3dmax",
@@ -67,7 +67,7 @@
     {
       "id": "jaycar",
       "ok": false,
-      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/sitemap/products/24.xml"
+      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/sitemap/products/25.xml"
     },
     {
       "id": "jbhifi",
