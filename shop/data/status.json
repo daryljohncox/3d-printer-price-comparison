@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-15T20:59:18.500Z",
+  "collectedAt": "2026-10-16T20:38:39.302Z",
   "sample": false,
   "shops": [
     {
@@ -16,9 +16,8 @@
     },
     {
       "id": "bits4bots",
-      "ok": true,
-      "platform": "shopify",
-      "listings": 1269
+      "ok": false,
+      "error": "shopify: HTTP 500 from https://bits4bots.co.nz/products.json?limit=250&page=1"
     },
     {
       "id": "makershop",
@@ -67,13 +66,13 @@
     {
       "id": "jaycar",
       "ok": false,
-      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/sitemap/products/25.xml"
+      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/3d-printers-supplies/c/10"
     },
     {
       "id": "jbhifi",
       "ok": true,
       "platform": "sitemap",
-      "listings": 21
+      "listings": 20
     },
     {
       "id": "bambulab",
