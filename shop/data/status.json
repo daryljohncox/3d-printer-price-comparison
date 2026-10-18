@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-17T19:52:07.346Z",
+  "collectedAt": "2026-10-18T20:04:40.657Z",
   "sample": false,
   "shops": [
     {
@@ -29,7 +29,7 @@
     {
       "id": "marvle3d",
       "ok": false,
-      "error": "sitemap: HTTP 403 from https://marvle3d.co.nz/index"
+      "error": "sitemap: The operation was aborted due to timeout"
     },
     {
       "id": "3dshop",
