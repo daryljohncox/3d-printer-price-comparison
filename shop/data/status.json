@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-18T20:04:40.657Z",
+  "collectedAt": "2026-10-19T22:11:21.045Z",
   "sample": false,
   "shops": [
     {
@@ -12,7 +12,7 @@
       "id": "formtech",
       "ok": true,
       "platform": "shopify",
-      "listings": 796
+      "listings": 808
     },
     {
       "id": "bits4bots",
@@ -29,13 +29,13 @@
     {
       "id": "marvle3d",
       "ok": false,
-      "error": "sitemap: The operation was aborted due to timeout"
+      "error": "sitemap: HTTP 403 from https://marvle3d.co.nz/index"
     },
     {
       "id": "3dshop",
       "ok": true,
       "platform": "sitemap",
-      "listings": 79
+      "listings": 82
     },
     {
       "id": "mindkits",
@@ -67,7 +67,7 @@
     {
       "id": "jaycar",
       "ok": false,
-      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/sitemap/products/25.xml"
+      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/3d-printers-supplies/c/10"
     },
     {
       "id": "jbhifi",
