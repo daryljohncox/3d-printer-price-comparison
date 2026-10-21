@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-20T21:08:30.287Z",
+  "collectedAt": "2026-10-21T21:14:48.251Z",
   "sample": false,
   "shops": [
     {
@@ -35,7 +35,7 @@
       "id": "3dshop",
       "ok": true,
       "platform": "sitemap",
-      "listings": 82
+      "listings": 80
     },
     {
       "id": "mindkits",
@@ -47,7 +47,7 @@
       "id": "3dmax",
       "ok": true,
       "platform": "sitemap",
-      "listings": 515
+      "listings": 514
     },
     {
       "id": "wondershop",
@@ -73,7 +73,7 @@
       "id": "jbhifi",
       "ok": true,
       "platform": "sitemap",
-      "listings": 21
+      "listings": 24
     },
     {
       "id": "bambulab",
