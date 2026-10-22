@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-21T21:14:48.251Z",
+  "collectedAt": "2026-10-22T21:12:02.754Z",
   "sample": false,
   "shops": [
     {
@@ -35,7 +35,7 @@
       "id": "3dshop",
       "ok": true,
       "platform": "sitemap",
-      "listings": 80
+      "listings": 81
     },
     {
       "id": "mindkits",
