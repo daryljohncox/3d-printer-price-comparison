@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-22T21:12:02.754Z",
+  "collectedAt": "2026-10-23T20:58:57.609Z",
   "sample": false,
   "shops": [
     {
@@ -18,7 +18,7 @@
       "id": "bits4bots",
       "ok": true,
       "platform": "shopify",
-      "listings": 1269
+      "listings": 1274
     },
     {
       "id": "makershop",
@@ -35,7 +35,7 @@
       "id": "3dshop",
       "ok": true,
       "platform": "sitemap",
-      "listings": 81
+      "listings": 82
     },
     {
       "id": "mindkits",
@@ -73,7 +73,7 @@
       "id": "jbhifi",
       "ok": true,
       "platform": "sitemap",
-      "listings": 24
+      "listings": 23
     },
     {
       "id": "bambulab",
