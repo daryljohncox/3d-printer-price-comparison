@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-24T20:04:53.131Z",
+  "collectedAt": "2026-10-25T20:17:05.757Z",
   "sample": false,
   "shops": [
     {
@@ -57,7 +57,7 @@
     {
       "id": "3dea",
       "ok": false,
-      "error": "woocommerce: fetch failed"
+      "error": "woocommerce: HTTP 403 from https://www.3dea.co.nz/shop/wp-json/wc/store/v1/products?per_page=100&page=1"
     },
     {
       "id": "pbtech",
@@ -73,7 +73,7 @@
       "id": "jbhifi",
       "ok": true,
       "platform": "sitemap",
-      "listings": 23
+      "listings": 22
     },
     {
       "id": "bambulab",
