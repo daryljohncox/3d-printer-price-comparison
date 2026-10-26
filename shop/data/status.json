@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-25T20:17:05.757Z",
+  "collectedAt": "2026-10-26T22:17:41.421Z",
   "sample": false,
   "shops": [
     {
@@ -71,9 +71,8 @@
     },
     {
       "id": "jbhifi",
-      "ok": true,
-      "platform": "sitemap",
-      "listings": 22
+      "ok": false,
+      "error": "sitemap: HTTP 503 from https://www.jbhifi.co.nz/sitemap_agentic_discovery.xml"
     },
     {
       "id": "bambulab",
