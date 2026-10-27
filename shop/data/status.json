@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-26T22:17:41.421Z",
+  "collectedAt": "2026-10-27T21:55:44.855Z",
   "sample": false,
   "shops": [
     {
@@ -22,9 +22,8 @@
     },
     {
       "id": "makershop",
-      "ok": true,
-      "platform": "woocommerce",
-      "listings": 166
+      "ok": false,
+      "error": "shopify: HTTP 404 from https://makershop.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 503 from https://makershop.co.nz/wp-json/wc/store/v1/products?per_page=100&page=3"
     },
     {
       "id": "marvle3d",
@@ -35,7 +34,7 @@
       "id": "3dshop",
       "ok": true,
       "platform": "sitemap",
-      "listings": 82
+      "listings": 83
     },
     {
       "id": "mindkits",
@@ -71,8 +70,9 @@
     },
     {
       "id": "jbhifi",
-      "ok": false,
-      "error": "sitemap: HTTP 503 from https://www.jbhifi.co.nz/sitemap_agentic_discovery.xml"
+      "ok": true,
+      "platform": "sitemap",
+      "listings": 21
     },
     {
       "id": "bambulab",
