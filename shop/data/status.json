@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-31T21:18:48.814Z",
+  "collectedAt": "2026-11-01T21:45:44.582Z",
   "sample": false,
   "shops": [
     {
@@ -18,7 +18,7 @@
       "id": "bits4bots",
       "ok": true,
       "platform": "shopify",
-      "listings": 1274
+      "listings": 1275
     },
     {
       "id": "makershop",
