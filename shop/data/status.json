@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-01T21:45:44.582Z",
+  "collectedAt": "2026-11-03T00:34:34.859Z",
   "sample": false,
   "shops": [
     {
@@ -12,7 +12,7 @@
       "id": "formtech",
       "ok": true,
       "platform": "shopify",
-      "listings": 815
+      "listings": 804
     },
     {
       "id": "bits4bots",
@@ -47,7 +47,7 @@
       "id": "3dmax",
       "ok": true,
       "platform": "sitemap",
-      "listings": 514
+      "listings": 509
     },
     {
       "id": "wondershop",
@@ -73,7 +73,7 @@
       "id": "jbhifi",
       "ok": true,
       "platform": "sitemap",
-      "listings": 22
+      "listings": 23
     },
     {
       "id": "bambulab",
