@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-03T23:02:49.043Z",
+  "collectedAt": "2026-11-04T23:16:55.926Z",
   "sample": false,
   "shops": [
     {
@@ -22,9 +22,8 @@
     },
     {
       "id": "makershop",
-      "ok": true,
-      "platform": "woocommerce",
-      "listings": 166
+      "ok": false,
+      "error": "shopify: HTTP 403 from https://makershop.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 403 from https://makershop.co.nz/wp-json/wc/store/v1/products?per_page=100&page=2"
     },
     {
       "id": "marvle3d",
@@ -41,7 +40,7 @@
       "id": "mindkits",
       "ok": true,
       "platform": "sitemap",
-      "listings": 1040
+      "listings": 1041
     },
     {
       "id": "3dmax",
@@ -67,7 +66,7 @@
     {
       "id": "jaycar",
       "ok": false,
-      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/3d-printers-supplies/c/10"
+      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/sitemap/products/25.xml"
     },
     {
       "id": "jbhifi",
