@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-06T22:44:16.815Z",
+  "collectedAt": "2026-11-07T21:30:47.529Z",
   "sample": false,
   "shops": [
     {
@@ -23,7 +23,7 @@
     {
       "id": "makershop",
       "ok": false,
-      "error": "shopify: HTTP 403 from https://makershop.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 403 from https://makershop.co.nz/wp-json/wc/store/v1/products?per_page=100&page=2"
+      "error": "shopify: HTTP 403 from https://makershop.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 429 from https://makershop.co.nz/wp-json/wc/store/v1/products?per_page=100&page=1"
     },
     {
       "id": "marvle3d",
