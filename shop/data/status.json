@@ -1,18 +1,18 @@
 {
-  "collectedAt": "2026-11-10T01:23:25.826Z",
+  "collectedAt": "2026-11-10T22:58:01.588Z",
   "sample": false,
   "shops": [
     {
       "id": "kiwifil",
       "ok": true,
       "platform": "shopify",
-      "listings": 230
+      "listings": 231
     },
     {
       "id": "formtech",
       "ok": true,
       "platform": "shopify",
-      "listings": 804
+      "listings": 805
     },
     {
       "id": "bits4bots",
@@ -72,7 +72,7 @@
       "id": "jbhifi",
       "ok": true,
       "platform": "sitemap",
-      "listings": 23
+      "listings": 22
     },
     {
       "id": "bambulab",
