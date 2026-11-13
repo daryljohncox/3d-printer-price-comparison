@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-12T23:23:33.553Z",
+  "collectedAt": "2026-11-13T23:18:40.981Z",
   "sample": false,
   "shops": [
     {
@@ -47,7 +47,7 @@
       "id": "3dmax",
       "ok": true,
       "platform": "sitemap",
-      "listings": 516
+      "listings": 518
     },
     {
       "id": "wondershop",
