@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-13T23:18:40.981Z",
+  "collectedAt": "2026-11-14T21:57:58.188Z",
   "sample": false,
   "shops": [
     {
@@ -73,7 +73,7 @@
       "id": "jbhifi",
       "ok": true,
       "platform": "sitemap",
-      "listings": 22
+      "listings": 21
     },
     {
       "id": "bambulab",
