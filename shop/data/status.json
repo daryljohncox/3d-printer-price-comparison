@@ -1,12 +1,12 @@
 {
-  "collectedAt": "2026-11-18T00:34:46.729Z",
+  "collectedAt": "2026-11-19T00:49:11.257Z",
   "sample": false,
   "shops": [
     {
       "id": "kiwifil",
       "ok": true,
       "platform": "shopify",
-      "listings": 231
+      "listings": 239
     },
     {
       "id": "formtech",
@@ -22,9 +22,8 @@
     },
     {
       "id": "makershop",
-      "ok": true,
-      "platform": "woocommerce",
-      "listings": 166
+      "ok": false,
+      "error": "shopify: HTTP 403 from https://makershop.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 403 from https://makershop.co.nz/wp-json/wc/store/v1/products?per_page=100&page=2"
     },
     {
       "id": "marvle3d",
@@ -35,7 +34,7 @@
       "id": "3dshop",
       "ok": true,
       "platform": "sitemap",
-      "listings": 83
+      "listings": 84
     },
     {
       "id": "mindkits",
@@ -47,7 +46,7 @@
       "id": "3dmax",
       "ok": true,
       "platform": "sitemap",
-      "listings": 518
+      "listings": 275
     },
     {
       "id": "wondershop",
