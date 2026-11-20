@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-20T00:22:37.216Z",
+  "collectedAt": "2026-11-20T23:47:36.188Z",
   "sample": false,
   "shops": [
     {
@@ -22,8 +22,9 @@
     },
     {
       "id": "makershop",
-      "ok": false,
-      "error": "shopify: HTTP 403 from https://makershop.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 429 from https://makershop.co.nz/wp-json/wc/store/v1/products?per_page=100&page=1"
+      "ok": true,
+      "platform": "woocommerce",
+      "listings": 166
     },
     {
       "id": "marvle3d",
@@ -40,13 +41,13 @@
       "id": "mindkits",
       "ok": true,
       "platform": "sitemap",
-      "listings": 1074
+      "listings": 1073
     },
     {
       "id": "3dmax",
       "ok": true,
       "platform": "sitemap",
-      "listings": 518
+      "listings": 517
     },
     {
       "id": "wondershop",
@@ -61,7 +62,7 @@
     {
       "id": "pbtech",
       "ok": false,
-      "error": "sitemap: HTTP 403 from https://www.pbtech.com/sitemap.xml"
+      "error": "sitemap: HTTP 403 from https://www.pbtech.co.nz/sitemap.xml"
     },
     {
       "id": "jaycar",
