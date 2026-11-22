@@ -1,12 +1,12 @@
 {
-  "collectedAt": "2026-11-21T22:48:05.511Z",
+  "collectedAt": "2026-11-22T23:04:01.853Z",
   "sample": false,
   "shops": [
     {
       "id": "kiwifil",
       "ok": true,
       "platform": "shopify",
-      "listings": 239
+      "listings": 238
     },
     {
       "id": "formtech",
@@ -22,9 +22,8 @@
     },
     {
       "id": "makershop",
-      "ok": true,
-      "platform": "woocommerce",
-      "listings": 166
+      "ok": false,
+      "error": "shopify: HTTP 403 from https://makershop.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 403 from https://makershop.co.nz/wp-json/wc/store/v1/products?per_page=100&page=2"
     },
     {
       "id": "marvle3d",
@@ -62,7 +61,7 @@
     {
       "id": "pbtech",
       "ok": false,
-      "error": "sitemap: HTTP 403 from https://www.pbtech.co.nz/sitemap.xml"
+      "error": "sitemap: HTTP 403 from https://www.pbtech.com/sitemap.xml"
     },
     {
       "id": "jaycar",
@@ -73,7 +72,7 @@
       "id": "jbhifi",
       "ok": true,
       "platform": "sitemap",
-      "listings": 20
+      "listings": 18
     },
     {
       "id": "bambulab",
