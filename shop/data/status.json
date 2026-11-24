@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-22T23:04:01.853Z",
+  "collectedAt": "2026-11-24T03:57:32.890Z",
   "sample": false,
   "shops": [
     {
@@ -12,7 +12,7 @@
       "id": "formtech",
       "ok": true,
       "platform": "shopify",
-      "listings": 806
+      "listings": 807
     },
     {
       "id": "bits4bots",
@@ -34,13 +34,13 @@
       "id": "3dshop",
       "ok": true,
       "platform": "sitemap",
-      "listings": 84
+      "listings": 87
     },
     {
       "id": "mindkits",
       "ok": true,
       "platform": "sitemap",
-      "listings": 1073
+      "listings": 1069
     },
     {
       "id": "3dmax",
@@ -61,18 +61,18 @@
     {
       "id": "pbtech",
       "ok": false,
-      "error": "sitemap: HTTP 403 from https://www.pbtech.com/sitemap.xml"
+      "error": "sitemap: HTTP 403 from https://www.pbtech.co.nz/sitemap.xml"
     },
     {
       "id": "jaycar",
       "ok": false,
-      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/3d-printers-supplies/c/10"
+      "error": "sitemap: HTTP 403 from https://www.jaycar.co.nz/sitemap/products/25.xml"
     },
     {
       "id": "jbhifi",
       "ok": true,
       "platform": "sitemap",
-      "listings": 18
+      "listings": 19
     },
     {
       "id": "bambulab",
