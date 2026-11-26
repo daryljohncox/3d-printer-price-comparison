@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-25T02:03:20.772Z",
+  "collectedAt": "2026-11-26T01:38:45.928Z",
   "sample": false,
   "shops": [
     {
@@ -22,8 +22,9 @@
     },
     {
       "id": "makershop",
-      "ok": false,
-      "error": "shopify: HTTP 403 from https://makershop.co.nz/products.json?limit=250&page=1; woocommerce: HTTP 429 from https://makershop.co.nz/wp-json/wc/store/v1/products?per_page=100&page=1"
+      "ok": true,
+      "platform": "woocommerce",
+      "listings": 166
     },
     {
       "id": "marvle3d",
@@ -72,7 +73,7 @@
       "id": "jbhifi",
       "ok": true,
       "platform": "sitemap",
-      "listings": 20
+      "listings": 21
     },
     {
       "id": "bambulab",
